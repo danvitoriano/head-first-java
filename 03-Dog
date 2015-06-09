@@ -1,0 +1,9 @@
+class Dog{
+String name;
+
+public static void main (String[] args){
+Dog dog1 = new Dog();
+dog1.name = "Bart";
+Dog[] myDogs = new Dog[3];
+}
+}
