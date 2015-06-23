@@ -5,3 +5,4 @@ exercises from Head First Java Book
 02-Movie // classes e objetos
 02-GuessGame // classes e objetos
 03-Dog // variáveis primitivas e de instância de objetos
+03-TestArrays // variáveis primitivas e de instância de objetos
