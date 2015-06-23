@@ -1,8 +1,8 @@
-# head-first-java
-exercises from Head First Java Book
+# head-first-java<br>
+exercises from Head First Java Book<br>
 
-01-MyFirstApp // método main
-02-Movie // classes e objetos
-02-GuessGame // classes e objetos
-03-Dog // variáveis primitivas e de instância de objetos
-03-TestArrays // variáveis primitivas e de instância de objetos
+01-MyFirstApp // método main<br>
+02-Movie // classes e objetos<br>
+02-GuessGame // classes e objetos<br>
+03-Dog // variáveis primitivas e de instância de objetos<br>
+03-TestArrays // variáveis primitivas e de instância de objetos<br>
